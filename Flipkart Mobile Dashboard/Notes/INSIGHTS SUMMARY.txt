@@ -1,0 +1,37 @@
+INSIGHTS SUMMARY
+----------------
+
+1. Top Performing Brands:
+   - Apple and Xiaomi contribute significantly to overall revenue despite fewer models.
+   - Realme and Motorola focus more on budget segments but bring in good value with volume.
+
+2. Price & Profit Analysis:
+   - Highest profit margin observed on premium brands like HTC and ASUS.
+   - Budget phones like POCO and SAMSUNG sell closer to cost price, indicating competitive pricing.
+
+3. Brand Ratings:
+   - Google Pixel, Apple, and Xiaomi received consistently high ratings across models.
+   - Rating drops for brands like HTC and OPPO, suggesting room for quality perception improvement.
+
+4. Model Observations:
+   - Xiaomi Mi 10 and Apple iPhone SE generated good revenue while maintaining user satisfaction.
+   - POCO X3 Pro offered the best value-for-money ratio with a significant discount.
+
+5. Color Preference Patterns:
+   - Graphite Black and Blue variants appear most frequently, indicating buyer preference.
+
+6. Storage-wise Demand:
+   - 128 GB and 256 GB variants dominate higher-price brackets.
+   - 16 GB and 32 GB models mostly fall in budget category and receive fewer reviews.
+
+7. Revenue Distribution:
+   - Total Selling Price across all models: ₹3,72,598
+   - Total Original Price: ₹4,12,679
+   - Approx. Estimated Profit: ₹40,081
+
+8. Key Takeaways:
+   - Mid-range brands (IQOO, ASUS) balance pricing and quality well.
+   - High-rated brands with aggressive pricing strategy perform the best overall.
+
+Prepared by: Mahesh  
+Date: June 2025
