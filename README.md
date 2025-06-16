@@ -12,6 +12,21 @@ A Power BI dashboard project that provides interactive insights into Flipkart's 
 - 🏷️ Category-wise performance breakdown
 - 📈 KPI indicators for average price, highest-rated brand, top-selling model, etc.
 - 📊 Interactive filters for brand, price range, rating, and availability
+
+## 🗂️ Project Structure
+
+```
+flipkart-mobile-dashboard/
+├── Flipkart_Dashboard.pbix
+├── README.md
+├── data/
+│   └── flipkart_data.xlsx
+├── images/
+│   └── dashboard_preview.png
+└── notes/
+    └── insights_summary.txt
+```
+
 ## 📁 Data Source
 
 This dashboard uses Flipkart mobile product data scraped from public listings (or available Excel dataset). Sample fields include:
